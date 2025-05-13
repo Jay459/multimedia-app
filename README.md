@@ -23,3 +23,35 @@ Start by cloning the repository to your local machine:
 ```bash
 git clone https://github.com/Jay459/multimedia-app
 ```
+
+### 2. Install Dependencies
+
+Navigate to the server directory (for backend) and client directory (for frontend) to install the required dependencies.
+
+### 3. To Start Backend Server
+
+```bash 
+cd server
+```
+
+```bash 
+npm install
+```
+
+```bash 
+npm run dev
+```
+
+### 4. To Start Frontend Server
+
+```bash
+cd ../client
+```
+
+```bash
+npm install
+```
+
+```bash
+npm start
+```
