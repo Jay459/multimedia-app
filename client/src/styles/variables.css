@@ -1,0 +1,8 @@
+:root {
+    --primary-color: #3f51b5;
+    --accent-color: #f50057;
+    --text-color: #333;
+    --bg-color: #f9f9f9;
+    --border-radius: 6px;
+    --spacing: 1rem;
+}
